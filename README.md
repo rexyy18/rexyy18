@@ -1,5 +1,4 @@
 -  Hi😎, I’m Rexford Nyarko
--  I’m interested in anything that bring peace
 -  I’m currently learning C++
 -  How to reach me on my email
     kofirexnyarko@gmail.com
