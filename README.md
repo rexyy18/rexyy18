@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BACKEND SOFTWARE ENGINEER<br>
+<br style="color: blue; font-size: 100px;">I'm an ASPIRING BACKEND SOFTWARE ENGINEER<br>
 
 
 ## 🌐 Socials:
