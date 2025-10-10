@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rexford, an IT enthusiast, willing to learn and impact the world.<br>
+I am Rexford, an IT enthusiast, learning to impact the world.<br>
 
 
 ## 🌐 Socials:
